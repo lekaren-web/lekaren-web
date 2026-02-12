@@ -1,10 +1,10 @@
-👾 Hi there! My name is Karen Le, I am a creative and enthusiatic Software Engineer!👾 
+👾 Hi there! My name is Karen Le, I am a creative and enthusiatic Frontend Developer!👾 
+(a dev you can actually talk to and laugh with?? NO WAY!)
 
-👩‍💻 I love making new friends as well as creating new projects. I love thinking of new ways to make coding more exciting! 
-When passionate and devoted, I am a fast learner. 👩‍💻
+As a developer with over 5+ years of hands-on experience with frontend development I always aspire to learn and grow!
+I have worked with multiple start-ups over the years, and partcipated in creating brand new platforms as well as migrating old legacyones! 
 
-Aside from drinking coffee until I shake all day, I also enjoy planting and playing video games! Another hobby I have is documenting projects I create, 
-(something about documenting how a project turns out is extremely exciting to me!)
+My ultimate goal is to prove that no project is impossible! I strongly believe, with the ability to learn, anything is possible!
 
 If you enjoy creating new projects and experiences, feel free to contact me! I'd love to meet you!
 
