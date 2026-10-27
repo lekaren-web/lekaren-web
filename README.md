@@ -11,7 +11,7 @@ My ultimate goal is to prove that no project is impossible! I strongly believe, 
 
 ---
 
-### 💼 Where I've been
+### Where I've been
 
 - **Medtrics Lab** · Implementation & Frontend Engineer · *Dec 2023 – now*\
   Moving a big Django app off jQuery and Bootstrap 3 and onto Vue 3 components and a shared SCSS design system, without breaking the templates it still runs on! I also ship scheduling, curriculum and evaluation features, fix security findings (hello XSS 👋), and keep the Cypress tests happy.
@@ -30,7 +30,7 @@ My ultimate goal is to prove that no project is impossible! I strongly believe, 
 
 ---
 
-### 🤖 Building with AI (without the vibes-only coding 😌)
+### Building with AI (without the vibes-only coding 😌)
 
 I use AI coding agents every day, and I treat them like a teammate who needs a really good brief and a really good test suite!
 
@@ -41,7 +41,7 @@ I use AI coding agents every day, and I treat them like a teammate who needs a r
 
 ---
 
-### 🚀 Things I've built
+### Things I've built
 
 - **[Cairn](https://github.com/lekaren-web/cairn-ui)** · An accessible component library written once in Vue 3 and shipped as both Vue components and native Web Components, so it works in Vue apps *and* plain Django + HTMX pages! Storybook, keyboard + axe tests, the works.
 - **[DeedSafe](https://github.com/lekaren-web/deedsafe)** · Proof that a document existed at a point in time 📜 Files get fingerprinted right in the browser (never uploaded!), and only the fingerprint goes on the Solana ledger. Next.js, Supabase, Postgres row-level security.
@@ -49,7 +49,7 @@ I use AI coding agents every day, and I treat them like a teammate who needs a r
 
 ---
 
-### 🛠️ Things I work with
+### Things I work with
 
 **Every day:** Vue 3 · TypeScript · JavaScript · Django templates · SCSS · Cypress\
 **Also shipped with:** React · Next.js · React Native · Three.js · Node.js · Supabase · Firebase · AWS Amplify\
@@ -57,6 +57,6 @@ I use AI coding agents every day, and I treat them like a teammate who needs a r
 
 ---
 
-If you enjoy creating new projects and experiences, feel free to contact me! I'd love to meet you! 💌
+If you enjoy creating new projects and experiences, feel free to contact me! I'd love to meet you! :3
 
 **LinkedIn:** [linkedin.com/in/le-karen](https://www.linkedin.com/in/le-karen) · **Email:** lekaren0518@gmail.com
